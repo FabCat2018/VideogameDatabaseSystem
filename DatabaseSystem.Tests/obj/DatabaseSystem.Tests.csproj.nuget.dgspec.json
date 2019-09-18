@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\User\\Desktop\\University-Placement Year\\VideogameDatabaseSystem\\DatabaseSystem.Tests\\DatabaseSystem.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\User\\Desktop\\University-Placement Year\\VideogameDatabaseSystem\\DatabaseSystem.Tests\\DatabaseSystem.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\University-Placement Year\\VideogameDatabaseSystem\\DatabaseSystem.Tests\\DatabaseSystem.Tests.csproj",
+        "projectName": "DatabaseSystem.Tests",
+        "projectPath": "C:\\Users\\User\\Desktop\\University-Placement Year\\VideogameDatabaseSystem\\DatabaseSystem.Tests\\DatabaseSystem.Tests.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\University-Placement Year\\VideogameDatabaseSystem\\DatabaseSystem.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\User\\Desktop\\University-Placement Year\\VideogameDatabaseSystem\\DatabaseSystem\\DatabaseSystem.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\University-Placement Year\\VideogameDatabaseSystem\\DatabaseSystem\\DatabaseSystem.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\User\\Desktop\\University-Placement Year\\VideogameDatabaseSystem\\DatabaseSystem\\DatabaseSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\University-Placement Year\\VideogameDatabaseSystem\\DatabaseSystem\\DatabaseSystem.csproj",
+        "projectName": "DatabaseSystem",
+        "projectPath": "C:\\Users\\User\\Desktop\\University-Placement Year\\VideogameDatabaseSystem\\DatabaseSystem\\DatabaseSystem.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\University-Placement Year\\VideogameDatabaseSystem\\DatabaseSystem\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

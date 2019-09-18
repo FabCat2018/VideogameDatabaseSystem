@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\University-Placement Year\VideogameDatabaseSystem\DatabaseSystem.Tests\obj\Debug\netcoreapp2.2\DatabaseSystem.Tests.csprojAssemblyReference.cache
+C:\Users\User\Desktop\University-Placement Year\VideogameDatabaseSystem\DatabaseSystem.Tests\obj\Debug\netcoreapp2.2\DatabaseSystem.Tests.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\University-Placement Year\VideogameDatabaseSystem\DatabaseSystem.Tests\obj\Debug\netcoreapp2.2\DatabaseSystem.Tests.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\University-Placement Year\VideogameDatabaseSystem\DatabaseSystem.Tests\obj\Debug\netcoreapp2.2\DatabaseSystem.Tests.AssemblyInfo.cs
+C:\Users\User\Desktop\University-Placement Year\VideogameDatabaseSystem\DatabaseSystem.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\Desktop\University-Placement Year\VideogameDatabaseSystem\DatabaseSystem.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\Desktop\University-Placement Year\VideogameDatabaseSystem\DatabaseSystem.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\Desktop\University-Placement Year\VideogameDatabaseSystem\DatabaseSystem.Tests\bin\Debug\netcoreapp2.2\DatabaseSystem.Tests.deps.json
+C:\Users\User\Desktop\University-Placement Year\VideogameDatabaseSystem\DatabaseSystem.Tests\bin\Debug\netcoreapp2.2\DatabaseSystem.Tests.runtimeconfig.json
+C:\Users\User\Desktop\University-Placement Year\VideogameDatabaseSystem\DatabaseSystem.Tests\bin\Debug\netcoreapp2.2\DatabaseSystem.Tests.runtimeconfig.dev.json
+C:\Users\User\Desktop\University-Placement Year\VideogameDatabaseSystem\DatabaseSystem.Tests\bin\Debug\netcoreapp2.2\DatabaseSystem.Tests.dll
+C:\Users\User\Desktop\University-Placement Year\VideogameDatabaseSystem\DatabaseSystem.Tests\bin\Debug\netcoreapp2.2\DatabaseSystem.Tests.pdb
+C:\Users\User\Desktop\University-Placement Year\VideogameDatabaseSystem\DatabaseSystem.Tests\bin\Debug\netcoreapp2.2\DatabaseSystem.dll
+C:\Users\User\Desktop\University-Placement Year\VideogameDatabaseSystem\DatabaseSystem.Tests\bin\Debug\netcoreapp2.2\DatabaseSystem.pdb
+C:\Users\User\Desktop\University-Placement Year\VideogameDatabaseSystem\DatabaseSystem.Tests\obj\Debug\netcoreapp2.2\DatabaseSystem.Tests.csproj.CopyComplete
+C:\Users\User\Desktop\University-Placement Year\VideogameDatabaseSystem\DatabaseSystem.Tests\obj\Debug\netcoreapp2.2\DatabaseSystem.Tests.dll
+C:\Users\User\Desktop\University-Placement Year\VideogameDatabaseSystem\DatabaseSystem.Tests\obj\Debug\netcoreapp2.2\DatabaseSystem.Tests.pdb
