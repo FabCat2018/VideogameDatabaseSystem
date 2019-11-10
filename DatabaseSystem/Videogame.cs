@@ -7,23 +7,27 @@ namespace VideogameDatabaseSystem.DatabaseSystem
     public class Videogame
     {
         #region Properties
-        public string Title { get; private set; }
+        public string Title { get; set; }
 
-        public string Description { get; private set; }
+        public string Type { get; set; }
 
-        public int CriticRating { get; private set; }
+        public string Description { get; set; }
 
-        // public Image Image
+        public string Achievements { get; set; }
 
         #endregion
 
         #region Constructors
-        public Videogame(string gameTitle, string gameDescription, int gameCriticRating /*Image gameImage*/)
+
+        //Should be used for testing purposes only
+        public Videogame() {}
+
+        public Videogame(string gameTitle, string gameType, string gameDescription, string gameAchievements)
         {
             this.Title = gameTitle;
+            this.Type = gameType;
             this.Description = gameDescription;
-            this.CriticRating = gameCriticRating;
-            // this.Image = gameImage;
+            this.Achievements = gameAchievements;
         }
 
         #endregion

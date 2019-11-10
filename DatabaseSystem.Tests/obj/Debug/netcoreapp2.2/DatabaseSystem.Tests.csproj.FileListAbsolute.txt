@@ -1,5 +1,4 @@
 C:\Users\User\Desktop\University-Placement Year\VideogameDatabaseSystem\DatabaseSystem.Tests\obj\Debug\netcoreapp2.2\DatabaseSystem.Tests.csprojAssemblyReference.cache
-C:\Users\User\Desktop\University-Placement Year\VideogameDatabaseSystem\DatabaseSystem.Tests\obj\Debug\netcoreapp2.2\DatabaseSystem.Tests.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\University-Placement Year\VideogameDatabaseSystem\DatabaseSystem.Tests\obj\Debug\netcoreapp2.2\DatabaseSystem.Tests.AssemblyInfoInputs.cache
 C:\Users\User\Desktop\University-Placement Year\VideogameDatabaseSystem\DatabaseSystem.Tests\obj\Debug\netcoreapp2.2\DatabaseSystem.Tests.AssemblyInfo.cs
 C:\Users\User\Desktop\University-Placement Year\VideogameDatabaseSystem\DatabaseSystem.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll

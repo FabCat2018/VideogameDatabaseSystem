@@ -4,7 +4,6 @@ C:\Users\User\Desktop\University-Placement Year\VideogameDatabaseSystem\Database
 C:\Users\User\Desktop\University-Placement Year\VideogameDatabaseSystem\DatabaseSystem\bin\Debug\netcoreapp2.2\DatabaseSystem.dll
 C:\Users\User\Desktop\University-Placement Year\VideogameDatabaseSystem\DatabaseSystem\bin\Debug\netcoreapp2.2\DatabaseSystem.pdb
 C:\Users\User\Desktop\University-Placement Year\VideogameDatabaseSystem\DatabaseSystem\obj\Debug\netcoreapp2.2\DatabaseSystem.csprojAssemblyReference.cache
-C:\Users\User\Desktop\University-Placement Year\VideogameDatabaseSystem\DatabaseSystem\obj\Debug\netcoreapp2.2\DatabaseSystem.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\University-Placement Year\VideogameDatabaseSystem\DatabaseSystem\obj\Debug\netcoreapp2.2\DatabaseSystem.AssemblyInfoInputs.cache
 C:\Users\User\Desktop\University-Placement Year\VideogameDatabaseSystem\DatabaseSystem\obj\Debug\netcoreapp2.2\DatabaseSystem.AssemblyInfo.cs
 C:\Users\User\Desktop\University-Placement Year\VideogameDatabaseSystem\DatabaseSystem\obj\Debug\netcoreapp2.2\DatabaseSystem.dll
